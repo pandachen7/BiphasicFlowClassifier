@@ -215,7 +215,7 @@
       <rect>
        <x>280</x>
        <y>20</y>
-       <width>151</width>
+       <width>271</width>
        <height>20</height>
       </rect>
      </property>
@@ -302,7 +302,7 @@
      <property name="title">
       <string>Liquid Values</string>
      </property>
-     <widget class="QWidget" name="">
+     <widget class="QWidget" name="layoutWidget">
       <property name="geometry">
        <rect>
         <x>10</x>
@@ -327,7 +327,7 @@
     <property name="title">
      <string>Training</string>
     </property>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -369,7 +369,7 @@
       </item>
      </layout>
     </widget>
-    <widget class="QWidget" name="">
+    <widget class="QWidget" name="layoutWidget">
      <property name="geometry">
       <rect>
        <x>10</x>

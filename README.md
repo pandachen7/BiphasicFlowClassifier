@@ -1,9 +1,15 @@
 # FlowClassifier
 GUI of Machine Learning which is for Flow Classifier
-
+ ![image](panel.png)
 
 # Install Python packages
 please refer the file requirements.txt
+
+# Run the Python script
+if you already have python and such python packages
+
+you run the GUI by
+`python gui_qt.py`
 
 # Testing the model
 you obtain 2 results with different types while choosing different experiments
